@@ -1,1 +1,10 @@
-tet
+This is a simple CRUD program.
+
+If you have seen the code, you can see that it is not efficient.
+It does not model the MVC (Model View Control).
+This is just a simple program that I created for fun.
+
+In the near future I will create a same CRUD program but, this time with an MVC.
+
+
+Thank You, and hopefully you find this program useful for learning.
