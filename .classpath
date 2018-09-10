@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/MonMar/Downloads/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonMar/Downloads/mysql-database-1.8.9.jar/mysql-database-1.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MonMar/Downloads/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
